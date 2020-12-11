@@ -1,0 +1,583 @@
+,Incident_DATE,Incident_INC NO.,Incident_LOCATION,Suspect_SEX,Suspect_RACE,Suspect_AGE,Suspect_INJURY,Suspect_WEAPON,Suspect_DECILE
+1,2020-05-29,71326920,7000 CULLEN BLVD,M,H,26,Wounded,Other,20 - 29
+2,2020-05-28,71270820,6300 DUMFRIES DR,M,H,18,Wounded,Firearm,Under 20
+3,2020-05-25,69259320,6500 CAPRIDGE DR,M,H,UNK,Killed,Firearm,Unknown
+6,2020-05-16,64788020,8600 S BRAESWOOD BLVD,M,B,38,Killed,Knife,30 - 39
+7,2020-05-14,63946620,3800 NOAH ST,M,B,30,Killed,Other,30 - 39
+9,2020-05-08,60491720,11700 NORTH FWY OB,M,B,48,Killed,Other,40 - 49
+10,2020-04-27,54949120,7900 LANE ST,M,H,28,Killed,Firearm,20 - 29
+12,2020-04-21,52537920,800 GAZIN,M,B,36,Killed,Other,30 - 39
+17,2020-04-11,47826020,400 GREENS RD #2008,M,B,34,None,Firearm,30 - 39
+18,2020-04-03,44206820,12300 BRAESRIDGE DR,M,B,27,Wounded,None,20 - 29
+19,2020-02-19,23726420,20100 NORTH FWY IB,M,B,26,Wounded,Knife,20 - 29
+20,2020-01-23,10380820,3900 YELLOWSTONE BLVD,M,B,37,None,Firearm,30 - 39
+21,2020-01-06,2508920,2300 FANNIN ST,M,B,30,Wounded,None,30 - 39
+22,2020-01-09,4005720,8100 MARTIN LUTHER KING BLVD,M,B,45,Wounded,None,40 - 49
+23,2020-01-03,2446820,11000 SPOTTSWOOD DR,M,B,34,Wounded,Firearm,30 - 39
+27,2019-12-30,171736319,5700 PERSHING ST,M,B,18,Killed,Firearm,Under 20
+29,2019-12-18,4055820,1400 LOCKWOOD DR,M,B,43,Wounded,Firearm,40 - 49
+31,2019-09-05,115732919,400 UVALDE RD,M,H,28,Wounded,None,20 - 29
+33,2019-09-12,119361419,3900 TRISTAN ST,M,B,17,Unknown,None,Under 20
+34,2019-09-16,120935219,10700 S. Gessner,M,B,27,Killed,Firearm,20 - 29
+36,2019-11-01,143778519,16100 S POST OAK RD,M,A,32,Wounded,Firearm,30 - 39
+38,2019-08-15,108199719,2400 CHARLES RD,M,H,41,Killed,Firearm,40 - 49
+39,2019-08-09,102521519,2400 Hutton,M,B,60,Wounded,Firearm,60 - 69
+41,2019-07-21,93118919,6400 S GESSNER RD,M,B,25,None,Firearm,20 - 29
+42,2019-06-28,82488019,10000 SOUTHWEST FWY OB,M,W,24,Killed,Firearm,20 - 29
+45,2019-06-19,77867119,9300 BISSONNET ST,M,B,23,Wounded,Firearm,20 - 29
+47,2019-05-24,65776819,5900 SELINSKY RD,M,B,35,Killed,Firearm,30 - 39
+48,2019-04-13,46151719,2600 ALABAMA ST,M,B,17,Wounded,Firearm,Under 20
+49,2019-02-27,25266619,5200 AIRLINE DR,M,H,19,Wounded,Firearm,Under 20
+51,2019-02-21,22869919,10600 BEECHNUT ST,M,H,17,Wounded,Firearm,Under 20
+52,2019-01-31,13527619,12200 BISSONNET ST,M,B,26,None,None,20 - 29
+53,,13527619,,M,B,24,None,None,20 - 29
+54,2019-01-28,12191319,200 TURNER DR,M,H,30,Wounded,None,30 - 39
+55,2019-01-28,12133719,7800 HARDING ST,M,W,59,Killed,Firearm,50 - 59
+57,,12133719,,F,W,58,Killed,None,50 - 59
+59,2019-01-28,12191319,200 TURNER DR,M,H,30,Wounded,None,30 - 39
+60,2019-01-08,3169319,11000 SOUTHWEST FWY OB,M,B,26,Wounded,Firearm,20 - 29
+62,2019-01-04,1599519,100 E 44TH ST,M,B,32,Killed,Firearm,30 - 39
+63,2018-02-25,162241918,13300 ALMEDA RD,M,W,39,None,None,30 - 39
+64,2018-11-28,150372018,7600 HARRISBURG BLVD,M,B,28,Killed,None,20 - 29
+65,,150372018,,M,B,30,Killed,Firearm,30 - 39
+66,2018-11-27,149476218,12300 BELLAIRE BLVD,M,A,41,Killed,Firearm,40 - 49
+67,2018-11-14,144320018,7100 Beechnut,M,H,61,Killed,None,60 - 69
+68,2018-10-27,135922718,2800 Eagle Creek,M,W,30,Killed,Firearm,30 - 39
+69,2018-09-28,122990318,2500 WINROCK BLVD,M,B,23,Killed,Firearm,20 - 29
+72,2018-09-28,123798518,3000 ELGIN ST,M,B,26,None,Other,20 - 29
+73,2018-09-08,114287818,16500 Tiffany Court,M,B,43,Killed,Firearm,40 - 49
+74,2018-07-26,95218318,4600 Tidwell,M,B,17,None,Firearm,Under 20
+75,,95218318,,M,B,19,Wounded,Firearm,Under 20
+76,2018-07-23,93701118,7800 W BELLFORT AVE,M,H,16,None,Other,Under 20
+77,2018-07-15,90024918,8600 Helmers St,M,H,18,Wounded,Firearm,Under 20
+78,2018-06-22,79427318,3434 Tidwell Rd,M,H,33,None,Firearm,30 - 39
+79,2018-06-18,77476418,10800 Sabo Rd,M,H,37,None,Other,30 - 39
+80,2018-06-05,71389218,10898 Beechnut Street,M,U,UNK,None,Firearm,Unknown
+81,2018-05-26,66457618,9421 Cullen Blvd,M,B,6,Wounded,Other,Under 20
+82,2018-02-16,20235418,16800 Imperial Valley,M,B,56,Wounded,Firearm,50 - 59
+87,2018-02-02,13903618,12503 Mews Cir #503C,M,H,32,None,Unknown,30 - 39
+88,2018-02-01,13572118,8700 South Braeswood,M,B,37,Killed,Firearm,30 - 39
+89,2017-10-28,136191017,8700 South Braeswood,M,H,24,Wounded,Firearm,20 - 29
+90,2017-10-24,134253217,5400 Bellaire Blvd,M,H,33,Killed,Scissors and screwdriver,30 - 39
+91,2017-10-20,132830217,5801 N. Houston Rosslyn Road #101,M,H,54,Killed,Knife,50 - 59
+95,2017-09-04,112738517,4500 Sunburst,F,W,28,Wounded,None,20 - 29
+96,,112738517,,F,W,32,Wounded,Vehicle,30 - 39
+102,2017-05-17,61603917,5104 Almeda,M,B,30,Wounded,Firearm,30 - 39
+104,2017-05-06,56940317,11655 Briar Forest Dr.,M,B,UNK,None,Firearm,Unknown
+105,2017-04-27,52500217,14874 Estrellita,M,B,36,Wounded,Machete,30 - 39
+107,2017-04-27,52538517,15906 Blue Ridge,M,B,21,None,None,20 - 29
+108,,52538517,,M,B,22,None,Firearm,20 - 29
+109,2017-04-24,51362817,6902 Highway 6 N,M,B,18,None,None,Under 20
+110,,51362817,,Juvenile,Juvenile,Juvenile,Wounded,Unknown,Juvenile
+111,,51362817,,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+112,,51362817,,Juvenile,Juvenile,Juvenile,Killed,Pellet Gun,Juvenile
+113,2017-04-10,44960417,2600 Mayview Dr,M,B,39,Killed,Firearm,30 - 39
+114,2017-03-23,36699917,7600 East Houston Rd,M,B,36,Wounded,Firearm,30 - 39
+116,2017-03-10,30911117,7800 N LOOP E,M,B,26,Wounded,Unknown,20 - 29
+117,,30911117,,M,B,27,Wounded,Unknown,20 - 29
+118,2017-02-28,26218717,8710 Sterlingame Dr.,M,B,25,Killed,Firearm,20 - 29
+120,2017-02-16,20859317,Protected By Law,M,B,42,Wounded,Tuning fork,40 - 49
+121,2017-01-22,9641917,15950 SW FWY,M,H,UNK,Unknown,Firearm,Unknown
+122,2016-12-07,155214316,16250 Imperial Valley Dr.,M,B,37,Killed,Firearm,30 - 39
+124,,155214316,,M,B,29,None,Firearm,20 - 29
+126,2016-12-05,154131216,301 Benmar,M,H,26,Wounded,Firearm,20 - 29
+128,2016-11-28,151462916,10235 Almeda Genoa,M,H,22,Wounded,Firearm,20 - 29
+129,2016-10-13,131104116,11603 Riderwood Dr,M,B,21,Wounded,None,20 - 29
+130,2016-09-26,123203516,5450 Weslayan St.,M,W,46,Killed,Firearm,40 - 49
+135,2016-08-27,109985316,7500 Bellaire Blvd.,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+136,,109985316,,M,B,20,None,Hammer,20 - 29
+137,,109985316,,M,B,UNK,None,Firearm,Unknown
+138,2016-08-04,99760816,6300 Airline Dr.,M,H,34,Wounded,Firearm,30 - 39
+139,2016-07-24,94862816,1100 W ALABAMA,M,W,27,Wounded,Realistic BB gun,20 - 29
+141,2016-07-09,88163616,6700 Cullen Blvd,M,B,38,Killed,Firearm,30 - 39
+143,2016-07-09,88431916,12816 Kingsbridge,M,W,49,None,Firearm,40 - 49
+144,2016-06-07,72782816,3409 Cavalcade,M,B,47,Wounded,None,40 - 49
+145,2016-05-29,72408916,13210 Memorial Dr.,M,H,25,Killed,Firearm,20 - 29
+146,2016-05-27,67632516,3600 Gano St.,M,U,UNK,None,Vehicle,Unknown
+148,2016-05-24,66462816,6700 Joyner,M,W,30,Wounded,Vehicle,30 - 39
+149,2016-04-28,54184916,9600 N. Wayside,M,B,42,Wounded,Unknown,40 - 49
+150,2016-05-20,64416616,5098 Bingle,M,H,22,Wounded,Firearm,20 - 29
+151,2016-04-17,48805716,6027 Ledbetter,M,B,29,Wounded,Firearm,20 - 29
+152,2016-04-14,47566916,19732 Tomball Pkwy Outbound,M,B,UNK,Unknown,Firearm,Unknown
+153,,47566916,,M,B,37,Unknown,Firearm,30 - 39
+154,2016-03-20,35690916,200 S. 70th,M,H,28,Wounded,Firearm,20 - 29
+156,2016-03-17,34516216,11300 North Fwy,M,B,32,None,Firearm,30 - 39
+157,,34516216,,M,B,25,Wounded,None,20 - 29
+158,,34516216,,M,B,23,Wounded,Firearm,20 - 29
+159,,34516216,,M,B,29,Killed,None,20 - 29
+160,,34516216,,M,B,30,Killed,Firearm,30 - 39
+161,,34516216,,M,B,32,None,Firearm,30 - 39
+162,2016-03-12,32189216,3400 Eastex Fwy SR OB,M,B,37,Killed,None,30 - 39
+163,2016-03-08,30130016,7110 Mykawa Rd.,M,B,20,None,Firearm,20 - 29
+165,2016-02-13,19345016,5420 N. Hwy 6,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+166,,19345016,,M,B,20,None,Firearm,20 - 29
+167,2016-02-05,15817516,7129 Lawndale,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+168,,15817516,,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+169,2016-01-26,11017416,935 WOOLWORTH,F,W,40,None,Firearm,40 - 49
+171,2016-01-19,7896816,6011 Van Zandt,M,B,27,None,Firearm,20 - 29
+172,,7896816,,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+173,2015-12-29,166610115,3800 Hickok Ln.,M,B,22,None,None,20 - 29
+174,,166610115,,M,B,23,Wounded,Firearm,20 - 29
+175,2015-12-25,165095615,4002 Corder,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+176,2015-12-12,158966515,10079 Briarwild Ln.,M,H,35,Wounded,None,30 - 39
+177,2015-11-04,141999815,3200 Drew,M,B,56,Killed,Firearm,50 - 59
+178,2015-10-30,139741915,13630 Veterans Memorial,M,B,24,Killed,Firearm,20 - 29
+179,,139741915,,M,B,25,Killed,Firearm,20 - 29
+180,,139741915,,M,B,24,Wounded,Firearm,20 - 29
+181,2015-10-16,133534615,913 Panama,M,W,27,Killed,Firearm,20 - 29
+182,2015-10-15,133195715,7844 W Tidwell,M,B,22,Wounded,Firearm,20 - 29
+183,,133195715,,M,B,20,None,None,20 - 29
+184,,133195715,,M,B,20,Killed,Firearm,20 - 29
+185,2015-10-09,130647615,777 Bateswood,M,H,22,Wounded,Knife,20 - 29
+186,2015-10-08,130282515,Protected By Law,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+187,2015-10-03,127727615,7753 LEONARA,M,H,22,None,Firearm,20 - 29
+188,2015-09-24,123663615,10011 Hanka,M,W,37,None,Vehicle,30 - 39
+189,2015-09-08,116471815,6400 Hillcroft,M,H,29,None,Firearm,20 - 29
+191,,116471815,,M,H,23,None,None,20 - 29
+192,2015-09-05,115223915,4926 Chennault,M,U,UNK,Wounded,Firearm,Unknown
+193,2015-08-27,111183815,1401 St. Joseph Pkwy,M,B,26,Wounded,None,20 - 29
+194,2015-08-21,108702415,3608 Crane St.,F,B,UNK,None,Firearm,Unknown
+195,,108702415,,M,B,UNK,None,None,Unknown
+196,2015-08-17,106630315,4100 Hoffman,M,B,35,Killed,Firearm,30 - 39
+197,2015-08-02,99571615,9900 BEECHNUT ST,M,W,63,Killed,Vehicle,60 - 69
+199,2015-07-28,97568715,10234 Tangiers,M,B,24,None,Firearm,20 - 29
+201,2015-07-22,94851715,6200 Gulfton,M,H,23,Wounded,Firearm,20 - 29
+202,2015-07-07,87555915,1200 Tiny Tree Dr,Juvenile,Juvenile,Juvenile,Killed,Firearm,Juvenile
+203,,87555915,,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+204,,87555915,,F,B,24,Wounded,None,20 - 29
+205,2015-07-07,87658515,115 E. Canino,M,A,21,None,Firearm,20 - 29
+206,,87658515,,M,B,21,None,Firearm,20 - 29
+207,,87658515,,M,B,24,Wounded,Firearm,20 - 29
+208,2015-06-03,71376915,12700 South Green,M,H,33,Killed,Knife,30 - 39
+210,2015-04-28,53879915,Protected By Law,M,B,UNK,None,Firearm,Unknown
+211,2015-04-17,47973815,2203 Gessner,F,H,29,Wounded,None,20 - 29
+212,2015-04-15,47127315,15100 Wallisville,M,B,42,Killed,None,40 - 49
+214,2015-04-13,46362715,3 GREENS RD,M,H,24,Killed,Firearm,20 - 29
+215,2015-04-02,41129615,11959 SOUTH SAM HOUSTON PARKWAY W,M,B,26,Wounded,None,20 - 29
+216,2015-02-10,17884215,8425 WINKLER DR,M,H,28,None,Firearm,20 - 29
+217,,17884215,,M,H,25,None,None,20 - 29
+218,,17884215,,F,H,22,None,None,20 - 29
+219,2015-01-19,7847415,800 N LOOP E,M,B,UNK,None,None,Unknown
+220,2015-01-16,6314215,12810 GULF FWY OB,M,H,26,Killed,Firearm,20 - 29
+221,2015-01-16,6695315,14121 ELLA BLVD,M,B,18,Wounded,Firearm,Under 20
+222,,6695315,,M,B,19,None,None,Under 20
+223,,6695315,,M,B,19,None,None,Under 20
+224,2015-01-09,3483515,16272 IMPERIAL VALLEY DR,M,H,19,Wounded,None,Under 20
+225,2015-01-09,3652815,10902 MONTVERDE LN,M,H,20,Wounded,Firearm,20 - 29
+226,2014-12-17,160528814,13333 NORTHBOROUGH DR,M,B,32,Wounded,Firearm,30 - 39
+227,2014-12-15,159236414,400 N SAM HOUSTON PKWY E,M,B,20,Wounded,Firearm,20 - 29
+228,2014-12-12,158181414,14600 BUFFALO SPEEDWAY,M,B,38,Wounded,None,30 - 39
+230,2014-12-08,155866314,12919 WINDFERN,M,B,33,None,Firearm,30 - 39
+231,2014-11-12,144326514,10650 HEMPSTEAD RD,M,H,26,None,Firearm,20 - 29
+232,2014-10-22,134580514,3100 F.M. 1960,M,B,34,Wounded,Firearm,30 - 39
+233,2014-10-18,132565014,4000 AIRLINE DR,M,W,55,None,Vehicle,50 - 59
+234,2014-10-12,130116114,1100 OLIVER,M,H,31,Wounded,Vehicle,30 - 39
+235,,130116114,,M,W,36,Wounded,Vehicle,30 - 39
+236,2014-10-06,127340314,6790 SOUTHWEST FWY OB,M,H,36,Killed,Firearm,30 - 39
+238,2014-10-01,124567814,11703 KIRKMEADOW DR,M,W,34,Killed,Firearm,30 - 39
+239,2014-09-30,124142914,19210 GULF FWY OB,M,W,32,Killed,Firearm,30 - 39
+241,2014-09-23,120847114,4830 HOLLOWAY DR,M,B,25,Wounded,Vehicle,20 - 29
+243,2014-09-17,118130414,1903 ROSEWOOD LN,M,W,44,Wounded,Firearm,40 - 49
+244,,118130414,,F,W,38,None,None,30 - 39
+245,,118130414,,M,W,20,None,None,20 - 29
+246,2014-08-13,102070914,11960 AIRLINE DR,M,H,28,Killed,Firearm,20 - 29
+247,2014-08-13,102260814,14700 REDBUD,M,H,40,Killed,Firearm,40 - 49
+248,2014-08-03,97245814,2903 FANNIN,M,B,UNK,None,None,Unknown
+249,,97245814,,M,B,UNK,None,None,Unknown
+250,2014-07-29,95144314,10406 AMBLEWOOD DR,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+251,2014-07-27,94268814,3103 Dacca Drive,M,B,22,None,None,20 - 29
+252,,94268814,,M,B,27,None,Firearm,20 - 29
+253,2014-05-05,55474514,6406 BELARBOR ST,M,B,34,Killed,Firearm,30 - 39
+254,,55474514,,M,B,32,None,None,30 - 39
+255,2014-05-01,53375914,6211 COLLINGSWORTH,M,B,27,Wounded,Metal Pole,20 - 29
+256,2014-03-20,34188114,11050 SOUTHWEST FWY OB,M,B,UNK,Unknown,Firearm,Unknown
+257,2014-03-18,33110514,2219 Stevens,M,B,34,Wounded,None,30 - 39
+258,2014-03-17,32413614,9638 PLAINFIELD,M,B,26,Killed,None,20 - 29
+259,2014-03-13,30609914,7300 ARDMORE ST,M,B,47,Unknown,Vehicle,40 - 49
+260,,30609914,,M,B,49,Wounded,Vehicle,40 - 49
+261,2014-03-06,27504414,Protected By Law,U,U,UNK,Unknown,None,Unknown
+262,,27504414,,Juvenile,Juvenile,Juvenile,Killed,BB Gun,Juvenile
+263,2014-02-27,24475814,914 DALLAS ST,M,B,54,Wounded,Lumber,50 - 59
+264,2014-02-16,19897714,700 W GULF BANK RD,Juvenile,Juvenile,Juvenile,Killed,BB Gun,Juvenile
+265,,19897714,,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+266,2014-02-14,19009014,6568 T.C.JESTER BLVD.,M,B,19,None,None,Under 20
+267,,19009014,,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+268,,19009014,,M,B,19,Wounded,Firearm,Under 20
+269,2014-02-09,16581114,3900 PORTSMOUTH,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+270,,16581114,,Juvenile,Juvenile,Juvenile,Wounded,BB Gun,Juvenile
+271,,16581114,,M,W,18,Wounded,None,Under 20
+272,2014-01-23,9805514,855 GREENS RD,M,B,24,Killed,Firearm,20 - 29
+274,2014-01-19,7934614,9220 NATHANIEL,M,B,23,Wounded,Firearm,20 - 29
+275,2014-01-16,6830214,5700 W LITTLE YORK RD,M,B,26,Killed,None,20 - 29
+276,2014-01-13,5578914,08125 MILLS,M,W,36,Wounded,Knife,30 - 39
+277,2014-01-12,4732914,10516 KATY FWY OB,M,W,22,None,Firearm,20 - 29
+278,2013-12-26,160489413,12606 WESTPARK DR,M,B,UNK,Unknown,Vehicle,Unknown
+279,2013-12-09,153332913,3528 N BRAESWOOD BLVD,M,W,30,None,None,30 - 39
+280,2013-12-01,149898913,7001 HILLCROFT,M,H,24,None,None,20 - 29
+281,2013-11-30,150207613,6800 MISTY MORNING TRACE,M,B,18,None,None,Under 20
+282,,150207613,,M,H,16,None,None,Under 20
+283,,150207613,,M,H,18,None,None,Under 20
+284,,150207613,,M,H,18,None,None,Under 20
+285,,150207613,,M,H,16,None,None,Under 20
+286,,150207613,,M,B,17,None,None,Under 20
+287,2013-11-03,137943813,14001 FONDREN RD,M,B,17,Wounded,Firearm,Under 20
+288,2013-10-24,133633813,10225 SCOTT,M,B,22,Killed,Knife,20 - 29
+289,2013-09-30,122668913,6060 GULFTON,M,W,25,Wounded,Glass Shard,20 - 29
+290,2013-09-26,120839113,2600 HADLEY ST,M,B,24,Wounded,Firearm,20 - 29
+291,,120839113,,M,B,20,None,Firearm,20 - 29
+292,2013-09-25,120421213,00000 OUTSIDE,M,H,55,Killed,Firearm,50 - 59
+293,2013-09-13,115266113,13600 EAST FWY OB,M,H,23,Wounded,Firearm,20 - 29
+294,,115266113,,M,H,17,None,None,Under 20
+295,,115266113,,M,H,17,None,None,Under 20
+296,,115266113,,M,H,23,None,None,20 - 29
+297,2013-09-09,113255013,2000 ALLEN PKWY OB,M,W,27,Killed,Firearm,20 - 29
+299,,113255013,,F,W,39,None,None,30 - 39
+301,2013-09-01,110045013,9290 WOODFAIR DR,M,H,28,Killed,Firearm,20 - 29
+302,2013-08-22,105776713,13662 WESTHEIMER RD,M,B,32,Wounded,Firearm,30 - 39
+304,2013-08-07,98692013,660 MAXEY RD,M,H,52,None,Firearm,50 - 59
+305,2013-08-05,97994313,5725 FONDREN RD,M,H,28,Killed,Firearm,20 - 29
+307,2013-06-15,74452613,8875 W BELLFORT ST,M,B,34,Wounded,Vehicle,30 - 39
+308,2013-06-02,68384613,16031 CLARKE SPRINGS DR,M,B,14,None,None,Under 20
+309,,68384613,,M,B,15,None,None,Under 20
+310,,68384613,,M,B,16,None,None,Under 20
+311,,68384613,,M,B,UNK,None,Firearm,Unknown
+312,2013-05-31,67283213,12710 BRANT ROCK DR,M,B,21,Wounded,Firearm,20 - 29
+313,2013-04-26,1355467,"7044 FM 1960 E, Humble, TX",M,U,23,None,Firearm,20 - 29
+314,,1355467,,M,B,21,None,Firearm,20 - 29
+315,,1355467,,M,B,18,Killed,Firearm,Under 20
+316,2013-04-11,44046113,05887 WESTHEIMER RD B,M,B,30,Wounded,Firearm,30 - 39
+317,,44046113,,M,B,UNK,None,Firearm,Unknown
+318,2013-04-10,43485213,4700 ALLEN ST,M,B,24,None,Firearm,20 - 29
+319,,43485213,,U,U,UNK,None,None,Unknown
+320,,43485213,,U,U,UNK,None,None,Unknown
+321,,43485213,,U,U,UNK,None,None,Unknown
+322,2013-04-06,41917613,4700 WENDA,M,B,21,None,Firearm,20 - 29
+323,,41917613,,M,B,18,None,None,Under 20
+324,2013-03-23,35614113,7411 BANYAN ST,M,B,44,Wounded,Firearm,40 - 49
+326,2013-03-20,34501713,JACINTO CITY TEXAS,M,H,17,Wounded,Firearm,Under 20
+329,2013-03-19,33958813,6725 SHERWOOD DR,M,B,38,Wounded,None,30 - 39
+330,2013-03-18,33144013,600 SADDLE ROCK DR,M,H,33,Killed,Firearm,30 - 39
+331,2013-03-03,26584013,5800 W AIRPORT BLVD,M,B,45,Wounded,Firearm,40 - 49
+333,2013-02-28,25253413,4911 DUMFRIES DR,M,B,46,Killed,Scissors,40 - 49
+334,2013-02-15,19558313,1500 WASHINGTON AVE,M,H,51,None,Vehicle,50 - 59
+336,2013-02-13,18168313,15707 EASTEX FWY SER W,M,B,32,Wounded,Firearm,30 - 39
+337,2013-02-13,18448313,2900 S GESSNER DR,M,B,34,Killed,Knife,30 - 39
+338,2013-02-08,16110813,11800 TAYLORCREST,M,W,44,None,Vehicle,40 - 49
+339,,16110813,,F,W,38,None,None,30 - 39
+340,2013-02-02,13852913,614 W GREENS RD,M,B,33,Wounded,Vehicle,30 - 39
+343,2013-01-16,6043313,10919 SAGETRAIL DR,M,W,UNK,None,Unknown,Unknown
+344,2013-01-12,4468713,2200 BASTROP ST,M,B,23,Wounded,Firearm,20 - 29
+345,2013-01-12,4789613,1018 S GESSNER DR,M,B,19,Wounded,Firearm,Under 20
+346,,4789613,,M,B,18,None,None,Under 20
+347,,4789613,,M,B,22,None,None,20 - 29
+348,,4789613,,M,B,17,None,None,Under 20
+349,,4789613,,M,B,20,None,Firearm,20 - 29
+350,,4789613,,M,B,19,None,Firearm,Under 20
+351,2013-01-04,1469213,1500 W BAY AREA BLVD,M,B,UNK,None,Unknown,Unknown
+352,,1469213,,M,B,UNK,None,Unknown,Unknown
+353,2012-12-26,162463012,1500 Ruthven,M,B,41,Wounded,Vehicle,40 - 49
+354,2012-12-24,161401412,10900 Gulf Freeway,M,B,42,None,Firearm,40 - 49
+355,,161401412,,M,B,32,None,Firearm,30 - 39
+356,2012-12-23,160908412,4827 Brisbane,M,B,43,Wounded,Firearm,40 - 49
+357,2012-11-19,146038912,6910 Old North Belt Dr.,M,B,37,None,Firearm,30 - 39
+358,2012-11-16,145242812,7313 Northline,M,B,21,None,None,20 - 29
+359,2012-11-04,139910512,12810 Ashford Pine Dr.,M,W,46,Killed,Firearm,40 - 49
+361,2012-10-11,128938512,3300 Sampson,M,B,38,Killed,None,30 - 39
+362,2012-09-24,121514812,5800 South Gessner,M,H,25,None,None,20 - 29
+363,2012-09-22,120646512,4309 Polk,M,W,45,Killed,Pen,40 - 49
+364,2012-09-22,121020212,2002 Dowling,M,B,UNK,None,None,Unknown
+365,2012-09-20,120020212,2100 Cambridge St,M,B,31,Wounded,Firearm,30 - 39
+366,2012-09-16,118301912,8826 Beechnut,M,H,26,Wounded,None,20 - 29
+369,2012-09-15,117468112,4527 Lomitas,M,H,21,Wounded,None,20 - 29
+370,,117468112,,M,W,21,Wounded,Vehicle,20 - 29
+371,2012-09-13,116946712,1500 Nagle,M,B,26,Killed,Knife,20 - 29
+373,2012-08-21,106545312,6000 Black Maple,M,B,23,Wounded,Firearm,20 - 29
+374,2012-08-18,105011912,4700 Gloryland,U,U,UNK,Unknown,Firearm,Unknown
+375,2012-08-07,99971512,11727 W. Sam Houston Pkwy,M,B,33,Killed,Firearm,30 - 39
+376,2012-08-03,98051312,3100 Old Spanish Trail,M,B,17,None,Vehicle,Under 20
+377,,98051312,,M,B,17,None,None,Under 20
+378,2012-07-22,92642112,1600 N Wayside,M,H,UNK,None,Firearm,Unknown
+379,,92642112,,M,H,UNK,None,Firearm,Unknown
+380,2012-07-22,92756412,1000 McGowan,M,H,37,None,None,30 - 39
+381,2012-07-09,86965012,7200 Bissonnet Street,M,H,54,Killed,None,50 - 59
+382,2012-06-27,81382112,6000 Hollister,M,B,39,Killed,Firearm,30 - 39
+386,2012-06-21,78840412,10001 Westpark,M,B,26,None,Firearm,20 - 29
+387,2012-06-19,77976812,15800 Blueridge Rd,M,B,32,Wounded,Firearm,30 - 39
+388,2012-06-12,74484712,2610 Beatty,M,H,44,None,Firearm,40 - 49
+389,2012-05-24,66165412,2019 Dewalt St,M,B,51,Killed,Knife,50 - 59
+391,2012-05-18,63111212,11200 Fondren Rd,M,B,24,Killed,Knife,20 - 29
+392,2012-05-17,62768512,1467 Main,M,B,36,None,None,30 - 39
+393,2012-05-16,62466412,9200 N. Wayside,M,B,49,Wounded,Firearm,40 - 49
+394,2012-05-07,57985912,17300 Tomball Parway Service Rd,M,B,26,Killed,Firearm,20 - 29
+396,2012-05-02,55358512,10550 Gulf Freway,M,B,17,Wounded,Firearm,Under 20
+398,2012-04-18,49104412,5335 Gulf Freeway,M,B,28,Killed,Firearm,20 - 29
+400,2012-04-04,42291412,9755 Court Glen,M,B,23,Wounded,None,20 - 29
+401,2012-04-02,41005512,5400 Wilmington,M,B,28,None,None,20 - 29
+402,2012-03-31,40154412,Protected By Law,M,B,UNK,None,None,Unknown
+403,2012-02-26,24401812,10531 Gulf Freeway,M,H,19,Wounded,Vehicle,Under 20
+404,,24401812,,M,H,32,None,None,30 - 39
+405,2012-02-26,24405412,5003 Ridgecreek Dr,M,H,UNK,None,Unknown,Unknown
+406,2012-02-16,20191212,8301 Allwood St,M,B,69,Wounded,Firearm,60 - 69
+407,2012-01-13,5577512,3820 Sherwood Ln,M,H,21,Wounded,None,20 - 29
+408,2012-01-07,3088712,13106 Abalone Way,M,B,29,Wounded,None,20 - 29
+409,2012-01-04,1338712,7024 Lawndale,M,H,23,None,Firearm,20 - 29
+410,2011-12-29,166958111,9810 Gulf Freeway,M,H,32,Wounded,Knife,30 - 39
+411,2011-12-29,167166111,17595 Tomball Parkway,M,B,23,Wounded,Vehicle,20 - 29
+412,2011-12-25,165748011,9300 Tidwell,M,W,24,Killed,None,20 - 29
+413,2011-11-30,154742111,4506 Sherwood,M,H,19,Killed,Firearm,Under 20
+414,2011-11-23,152066411,3322 Yellowstone,M,B,UNK,Unknown,Firearm,Unknown
+415,2011-11-21,151095111,500 Rusk St,M,W,21,Wounded,Firearm,20 - 29
+417,2011-09-06,115579311,3000 Oklahoma,M,B,23,Wounded,Firearm,20 - 29
+418,2011-09-03,114240711,9700 Braeburn Glen,M,H,54,Wounded,None,50 - 59
+419,,114240711,,M,H,24,None,Firearm,20 - 29
+420,2011-08-10,103663811,10200 Forum Park,M,B,47,None,Knife,40 - 49
+421,2011-08-08,102768011,Protected By Law,M,W,47,Killed,None,40 - 49
+422,2011-07-28,97780511,7221 Weyburn St,M,B,57,Wounded,None,50 - 59
+423,2011-07-24,95913311,600 Mercury,M,H,36,Unknown,Firearm,30 - 39
+424,2011-07-23,95583811,1600 Dunaway St,M,H,23,None,Firearm,20 - 29
+425,2011-07-20,94364111,17435 Imperial Valley,M,B,29,None,Firearm,20 - 29
+426,2011-07-11,90010111,4401 W. 18TH ST,M,H,21,Killed,Knife,20 - 29
+427,2011-06-20,80221311,4537 Bricker,M,B,30,None,Firearm,30 - 39
+428,2011-06-18,79326211,5114 Georgia,M,H,60,Wounded,Firearm,60 - 69
+430,2011-06-15,77472411,8100 Schneider,Juvenile,Juvenile,Juvenile,Wounded,Vehicle,Juvenile
+431,2011-06-09,74850211,Protected By Law,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+432,,74850211,,Juvenile,Juvenile,Juvenile,Killed,None,Juvenile
+433,2011-06-07,73973611,8800 Curry,M,B,UNK,Unknown,Firearm,Unknown
+434,2011-06-03,71917211,7402,M,W,29,None,None,20 - 29
+435,2011-05-18,63475811,5351 W. Alabama,M,A,30,None,Firearm,30 - 39
+436,2011-05-16,62419311,800 Northwest Mall,M,H,22,Wounded,Firearm,20 - 29
+437,2011-05-07,58242911,2121 Main,M,B,20,S,Firearm,20 - 29
+441,2011-04-11,113007011,Protected By Law,U,U,UNK,Unknown,Unknown,Unknown
+442,2011-03-26,38048911,1 Goodson,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+443,2011-03-16,33289911,6767 Bennington,M,B,31,Wounded,Firearm,30 - 39
+444,2011-02-24,23788311,207 Buckboard,M,H,30,None,None,30 - 39
+446,,23788311,,M,H,33,None,Firearm,30 - 39
+447,2011-02-19,21505611,1900 W. Gray,M,H,29,Killed,None,20 - 29
+448,,21505611,,M,H,27,Wounded,None,20 - 29
+449,2011-02-14,19185611,13824 Rosetta,M,W,32,Killed,Knife,30 - 39
+450,2010-12-31,181709210,3403 Mangum,M,H,UNK,None,Firearm,Unknown
+451,2010-12-29,180917410,3800 Jensen,M,B,26,Killed,Firearm,20 - 29
+452,2010-12-16,174964510,9802 Forum Park,F,B,20,Killed,Firearm,20 - 29
+453,2010-12-12,173208310,5100 Westheimer Rd,M,A,28,Wounded,Firearm,20 - 29
+454,,173208310,,M,A,28,Wounded,Firearm,20 - 29
+455,2010-11-30,167697610,"4202 Fidelity, Jacinto City",M,H,29,Wounded,None,20 - 29
+457,2010-11-22,164216010,7526 Rhobell,M,B,18,Wounded,None,Under 20
+458,2010-11-17,161868210,14300 Minetta Street,M,B,29,Wounded,Firearm,20 - 29
+459,2010-11-08,157802610,4800 Laura Koppe,M,B,26,Killed,Firearm,20 - 29
+460,2010-11-05,156385710,181 West Dyna,M,H,20,None,Vehicle,20 - 29
+461,,156385710,,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+462,2010-11-04,155863110,16206 Alden Ridge,M,B,21,Wounded,None,20 - 29
+463,2010-10-29,153546010,4000 Southwest Freeway,M,H,25,Wounded,None,20 - 29
+464,2010-10-26,151609310,Protected By Law,M,H,20,Wounded,None,20 - 29
+465,2010-10-10,143935310,908 Thompson,M,H,21,Wounded,Firearm,20 - 29
+466,2010-09-21,134992910,14561 Northwest Freeway,M,B,35,None,Firearm,30 - 39
+467,2010-09-20,134594010,1300 W. Donovan St,M,B,34,Wounded,Vehicle,30 - 39
+468,2010-09-03,125703510,Protected By Law,M,H,32,Killed,Firearm,30 - 39
+469,,125703510,,M,B,29,Wounded,Vehicle,20 - 29
+470,2010-08-13,115612110,550 F.M. 1959,M,W,44,None,Firearm,40 - 49
+472,2010-08-09,113815510,8221 Gulf Freeway,M,H,40,None,Toy Gun,40 - 49
+473,2010-07-22,105214310,600 Greenspoint,M,H,UNK,None,Unknown,Unknown
+474,2010-05-25,75570210,Protected By Law,M,B,21,Wounded,None,20 - 29
+475,2010-05-20,72742910,2900 W. Sam Houston Pkwy,M,B,37,Wounded,Firearm,30 - 39
+477,2010-05-16,70469710,12109 Westheimer,M,B,37,Wounded,Firearm,30 - 39
+478,2010-04-19,56050910,Arlington Texas,M,B,18,Killed,Firearm,Under 20
+479,2010-04-15,53464310,3400 Woodchase,M,B,30,Wounded,Knife,30 - 39
+480,2010-04-02,46985010,Protected By Law,M,H,35,Wounded,None,30 - 39
+481,2010-03-27,43287110,1200 Oak Meadows,M,H,28,Killed,Firearm,20 - 29
+483,2010-03-19,39536710,7325 Bellerive Dr,M,B,21,Killed,Firearm,20 - 29
+484,2010-03-07,33137410,24734 Loop 494,M,H,28,Wounded,Firearm,20 - 29
+487,2010-02-24,27481110,5200 Pederson,M,B,41,Wounded,None,40 - 49
+488,2010-02-08,19186510,Protected By Law,M,B,19,None,Firearm,Under 20
+489,,19186510,,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+490,2010-02-04,17333510,6900 Martin Luther King Blvd,M,B,29,None,Firearm,20 - 29
+491,2010-01-18,8120910,11400 North Frwy,M,H,23,Wounded,Firearm,20 - 29
+493,2010-01-15,7098810,6710 Lectcher,M,B,69,Killed,Firearm,60 - 69
+494,2009-12-21,186288209,1117 King Street,Juvenile,Juvenile,Juvenile,Killed,Firearm,Juvenile
+496,2009-12-17,184046609,44 Farrell St,M,H,35,None,Firearm,30 - 39
+497,2009-12-08,179512609,2001 Ojeman Rd.,M,H,21,None,Firearm,20 - 29
+498,2009-12-07,178533309,8900 Imogene,M,W,44,Wounded,Hairbrush,40 - 49
+499,2009-12-05,177728609,12964 Market Street,M,W,49,S,Firearm,40 - 49
+500,2009-11-21,169729509,7300 Airport Blvd,M,B,67,None,Vehicle,60 - 69
+501,2009-11-14,166601609,8100 Sandspoint Dr.,M,H,28,Killed,Firearm,20 - 29
+502,2009-11-08,163196609,17200 Imperial Valley,M,B,UNK,None,Firearm,Unknown
+503,2009-11-07,162468609,6200 Bellaire Blvd,M,H,26,Killed,Firearm,20 - 29
+504,2009-10-09,147715209,8435 Winkler,M,H,35,Killed,Knife,30 - 39
+505,2009-10-08,146846409,6418 MLK Blvd,M,B,18,None,Firearm,Under 20
+506,2009-09-28,142027109,9803 Club Creek,M,H,21,Wounded,Firearm,20 - 29
+507,2009-09-21,138406209,300 Jensen,M,H,38,None,Toy Gun,30 - 39
+508,2009-09-19,137565509,8038 Turquoise Lane,M,W,49,Killed,Firearm,40 - 49
+509,2009-09-17,136512809,4211 Sherwood Lane,M,H,31,Wounded,None,30 - 39
+510,2009-09-11,133143109,763 Marjorie,M,B,25,Wounded,None,20 - 29
+511,2009-09-08,131629809,5400 Doliver,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+512,,131629809,,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+513,2009-09-04,129983309,6807 Feather Creek Drive,M,H,27,None,Firearm,20 - 29
+514,2009-08-26,125342709,9191 North loop East,M,B,UNK,None,Firearm,Unknown
+515,,125342709,,M,B,UNK,None,Firearm,Unknown
+516,2009-08-20,122735709,14909 North Freeway,M,W,UNK,None,Vehicle,Unknown
+517,2009-08-07,115531209,3500 W. Little York,M,B,21,Wounded,None,20 - 29
+518,2009-08-07,115591909,1900 Southwest Freeway,M,B,26,None,None,20 - 29
+519,2009-08-03,112714009,100 Goodson,M,B,25,None,Vehicle,20 - 29
+520,2009-08-01,111697509,2139 Lake Hills,M,W,39,Killed,CED Device,30 - 39
+521,2009-07-25,108043709,11222 S. Sam Houston Pkwy,M,H,UNK,None,Firearm,Unknown
+522,2009-07-24,107327809,Protected By Law,M,U,UNK,None,Unknown,Unknown
+523,2009-07-24,107581809,7100 Renwick,M,H,54,Killed,Srewdriver,50 - 59
+524,2009-07-14,102282609,8301 Ley Rd,M,B,29,Killed,Firearm,20 - 29
+530,2009-06-30,95423209,Protected By Law,M,H,26,None,Firearm,20 - 29
+531,2009-06-23,91819709,6700 Hillcroft,M,H,27,Killed,Firearm,20 - 29
+533,2009-06-06,82236309,2901 Walnut Bend,M,B,22,None,Firearm,20 - 29
+534,2009-06-04,80998609,8920 North Freeway,Juvenile,Juvenile,Juvenile,None,Firearm,Juvenile
+535,2009-05-15,70423809,11685 Alief Clodine,M,B,29,Wounded,Firearm,20 - 29
+536,2009-04-24,58570609,3700 Southlawn,M,H,25,Killed,Firearm,20 - 29
+539,2009-04-20,56603609,8710 Fondren,M,H,29,Killed,Knife,20 - 29
+540,2009-04-17,54787109,906 Greens Rd,M,B,28,Wounded,Firearm,20 - 29
+541,2009-04-06,48859509,8700 Fondren,M,B,19,Wounded,Firearm,Under 20
+542,2009-03-21,40670409,7245 Hillcroft,M,B,23,None,Knife,20 - 29
+543,2009-03-19,39879809,15615 Eastex Fwy,M,W,37,None,Vehicle,30 - 39
+544,,39879809,,F,W,36,Wounded,None,30 - 39
+545,2009-03-07,33424709,1326 Charnwood,M,B,47,Killed,Firearm,40 - 49
+549,2009-03-05,32644409,9338 E. Avenue O,M,H,28,Killed,Firearm,20 - 29
+552,2009-02-25,28090909,800 Dennis,F,B,UNK,None,Firearm,Unknown
+553,2009-02-09,20116209,6700 Airline,M,B,28,Wounded,Firearm,20 - 29
+555,2009-02-09,20348309,8791 Hammerly,M,W,28,Killed,Firearm,20 - 29
+559,2009-02-02,16502609,1415 Gulf Bank,M,B,18,Wounded,Firearm,Under 20
+560,2009-01-24,11777609,6201 W. Bellfort,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+561,2009-01-19,9269409,800 Northwest Mall,M,H,UNK,None,Firearm,Unknown
+562,,9269409,,M,H,UNK,None,Firearm,Unknown
+563,2009-01-19,9518409,1162 W. Sam Houston Pkwy N.,F,W,33,Wounded,Bow and Arrow,30 - 39
+564,2009-01-11,5625709,3215 Soway,M,W,54,Killed,Firearm,50 - 59
+567,2008-12-20,186639008,4605 W. Tidwell,M,B,24,Wounded,None,20 - 29
+568,2008-12-12,182749508,9797 Leawood Blvd,M,B,18,Wounded,Firearm,Under 20
+569,2008-11-02,162114608,7500 Bellfort,M,H,24,Killed,Firearm,20 - 29
+570,2008-10-29,160051508,1500 Eldridge Parkway,M,B,29,None,Vehicle,20 - 29
+571,2008-10-28,159479208,2330 W. Little York,M,B,45,Killed,Firearm,40 - 49
+572,2008-10-15,152494608,6556 Peerless,M,B,UNK,None,Firearm,Unknown
+573,2008-10-14,152368308,5720 Rampart,M,H,21,None,Firearm,20 - 29
+574,2008-10-14,152464708,3333 Old Spanish Trail,M,B,UNK,None,Firearm,Unknown
+575,2008-09-18,137113208,5901 Selinsky,M,B,UNK,None,Firearm,Unknown
+576,2008-09-17,136611408,5300 Hershe,M,B,29,Killed,Firearm,20 - 29
+577,2008-09-03,128334208,Protected By Law,M,B,25,Killed,None,20 - 29
+578,2008-08-22,122355008,9220 E. Ave K,M,H,20,Wounded,None,20 - 29
+579,2008-08-16,119425508,3307 Hastings,M,H,28,Wounded,Sword,20 - 29
+580,2008-08-11,116404708,5706 Richmond Ave.,M,B,19,None,Firearm,Under 20
+581,2008-06-28,94306208,5400 Lockwood,M,B,33,Killed,Firearm,30 - 39
+582,2008-06-15,881874308,800 Dallas,M,H,28,Wounded,None,20 - 29
+583,2008-06-04,81947208,8500 Broadway,M,B,30,Killed,None,30 - 39
+584,2008-05-24,76302208,8135 St. Louis,F,B,30,Wounded,Firearm,30 - 39
+585,2008-04-29,62576608,200 West Loop South,M,W,53,Killed,None,50 - 59
+587,2008-04-11,52498908,1200 W. Tidwell,M,B,28,Killed,Screwdriver,20 - 29
+588,2008-04-09,51417008,5800 Hillsboro,M,H,33,Wounded,None,30 - 39
+589,2008-03-04,32223108,27100 Northwest Freeway,M,W,42,Killed,Vehicle,40 - 49
+593,2008-02-22,26740208,800 Northwest Mall,M,H,21,Killed,Firearm,20 - 29
+596,2008-02-20,25524808,10118 Cheeves,M,B,31,Wounded,None,30 - 39
+597,2008-02-13,219790008,2929 Renshaw St.,F,H,29,Wounded,Vehicle,20 - 29
+600,2008-01-18,839028,5400 Malmedy,M,B,51,None,None,50 - 59
+601,,839028,,M,B,48,None,None,40 - 49
+602,2008-01-15,7143608,2000 Santa Rosa,M,H,21,Wounded,BB Gun,20 - 29
+610,2007-12-31,190773207,8700 Broadway,M,H,23,Wounded,Flashlight,20 - 29
+611,2007-10-18,153198907,6000 T. C. Jester,M,B,30,Killed,None,30 - 39
+612,2007-09-20,138627007,10500 Wolbrook,M,B,26,None,Vehicle,20 - 29
+613,2007-09-14,136079707,200 Stafford,F,W,23,None,Vehicle,20 - 29
+614,2007-08-13,119818907,7373 N. Wayside,F,B,18,Wounded,None,Under 20
+615,2007-08-12,118920907,Protected By Law,M,W,24,None,Firearm,20 - 29
+616,2007-07-31,112773907,4400 Mowery,M,B,21,Killed,Firearm,20 - 29
+622,2007-07-21,107981607,6600 Foster St,M,B,39,Killed,Club,30 - 39
+624,2007-07-20,107479507,5900 Golf Course Dr,M,B,43,Wounded,None,40 - 49
+625,2007-07-03,98260207,8900 Bissonnet,Juvenile,Juvenile,Juvenile,Wounded,Vehicle,Juvenile
+626,2007-07-01,96935007,6500 Airline Dr.,M,H,26,None,None,20 - 29
+627,2007-06-08,84230307,7200 Keller,M,B,23,Wounded,Firearm,20 - 29
+628,2007-06-03,81607707,5600 Hoover,M,B,42,Wounded,None,40 - 49
+629,2007-05-30,79542707,6700 Renwick,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+630,2007-05-21,74313707,2610 Hardy,M,H,UNK,Unknown,Toy Gun,Unknown
+631,2007-05-12,69483207,6200 West Bellfort,M,H,21,Killed,Firearm,20 - 29
+632,2007-05-10,68594007,7920 Harrisburg,M,H,77,Killed,Firearm,70 - 79
+633,2007-05-06,65913307,1200 Travis,M,B,42,Killed,Knife,40 - 49
+634,2007-05-03,64609707,13200 Jones Road,M,B,18,Wounded,Toy Gun,Under 20
+635,2007-04-25,59821907,15902 Galveston Rd,M,H,26,Wounded,Firearm,20 - 29
+637,2007-04-17,55773407,5700 South Loop East,M,H,28,None,Vehicle,20 - 29
+639,2007-04-13,53207807,200 Holmes Road,M,B,24,S,Firearm,20 - 29
+640,2007-03-21,41346907,2800 Winbern,F,B,20,None,Vehicle,20 - 29
+641,2007-02-10,20557707,1100 Holland Ave.,M,W,37,Killed,Knife,30 - 39
+642,2007-01-26,12751707,20205 Eastex Fwy,M,B,19,Wounded,Vehicle,Under 20
+644,2007-01-08,3998207,4600 Knoxville,M,B,23,Killed,Taser,20 - 29
+645,2007-01-07,3392207,5018 Curtain Street,M,H,21,Killed,Hammer,20 - 29
+646,2006-12-24,197202506,10700 Rosehaven,M,B,42,None,Vehicle,40 - 49
+647,2006-12-15,92666106,7402 Calhoun,M,B,51,Killed,Knife,50 - 59
+649,2006-10-24,164481806,8000 Cook Road,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+650,2006-10-23,163662206,4323 Osby,M,B,46,Killed,Knife,40 - 49
+651,2006-10-23,164009106,"11430 East Freeway, Jacinto City, TX",M,A,27,Killed,Pellet Gun,20 - 29
+653,2006-10-17,160660406,8515 Jensen,M,B,UNK,None,Firearm,Unknown
+655,2006-09-25,148156706,3300 Tidwell,M,B,28,None,Vehicle,20 - 29
+656,2006-09-17,143962206,5600 Holly View,M,B,28,None,Firearm,20 - 29
+658,2006-09-05,137251106,4100 Maury,M,B,27,Unknown,Firearm,20 - 29
+659,2006-08-23,130868306,9540 Kempwood,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+660,2006-08-08,122777506,100 Avondale,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+661,2006-08-04,120294106,2039 Santa Rosa,M,H,24,Wounded,None,20 - 29
+662,2006-08-02,119329906,4950 Burma,M,B,52,None,Firearm,50 - 59
+663,2006-07-31,118005606,3914 Leeland,M,B,49,None,Firearm,40 - 49
+664,2006-07-31,118327206,8800 Airport Blvd,M,W,37,Wounded,Firearm,30 - 39
+667,2006-07-27,115755806,8700 Sandra,M,B,26,None,Firearm,20 - 29
+668,2006-07-13,107824206,9715 Kirkville,M,H,35,Killed,Firearm,30 - 39
+669,2006-07-05,103944906,2000 Baird,M,W,29,Wounded,Tool,20 - 29
+670,2006-06-19,95120206,2820 Hillcroft,F,B,28,Killed,Toy Gun,20 - 29
+672,2006-06-16,93829706,5500 Antoine,M,H,23,Wounded,Firearm,20 - 29
+673,2006-06-08,88933206,11200 Fuqua Street,M,B,28,None,Firearm,20 - 29
+674,2006-06-01,85131306,2500 Woodland Park Dr,M,W,46,Wounded,Firearm,40 - 49
+675,2006-05-31,84848906,10615 Beechnut,M,B,21,None,Firearm,20 - 29
+676,,84848906,,M,B,20,None,Firearm,20 - 29
+677,2006-05-19,78020306,12915 East Freeway,M,B,20,Killed,Firearm,20 - 29
+678,2006-05-04,69428906,1300 Dart Street,M,B,54,Wounded,Pipe,50 - 59
+679,2006-04-22,62840506,4305 Haywood,M,H,39,Wounded,Firearm,30 - 39
+682,2006-04-05,53261906,4625 Laura Koppe,M,B,18,Wounded,Toy Gun,Under 20
+683,2006-04-02,51744806,5700 Cherbourgh,M,B,26,None,None,20 - 29
+684,2006-03-15,42016506,9501 Jensen,M,W,36,Wounded,None,30 - 39
+685,2006-03-11,39877906,210 Avondale,M,W,28,Wounded,Toy Pistol,20 - 29
+686,2006-02-23,30371506,6867 Gulf Freeway,M,H,27,Wounded,Vehicle,20 - 29
+688,2006-02-08,21933806,2200 Binley,Juvenile,Juvenile,Juvenile,Wounded,Knife,Juvenile
+689,2006-02-02,18268706,4500 North Freeway,M,B,28,Killed,Firearm,20 - 29
+690,2006-01-24,13033806,605 Frisco,M,H,36,Killed,Firearm,30 - 39
+692,2006-01-04,2004806,12221 Fleming,M,H,UNK,Unknown,Firearm,Unknown
+693,2005-12-24,193131105,4807 Heritage Plains Friendswood TX,M,B,22,Killed,Firearm,20 - 29
+695,2005-12-24,193231905,9305 Rosehaven,M,B,40,Wounded,Firearm,40 - 49
+697,2005-12-15,188502605,2300 Mason,M,H,19,Wounded,Firearm,Under 20
+698,,188502605,,M,H,22,Wounded,Firearm,20 - 29
+699,,188502605,,Juvenile,Juvenile,Juvenile,None,Firearm,Juvenile
+700,,188502605,,M,H,24,Killed,Firearm,20 - 29
+701,2005-12-05,183852305,6500 Dunlap,M,B,22,Wounded,Firearm,20 - 29
+702,2005-11-28,179844005,1816 West Little York,Juvenile,Juvenile,Juvenile,None,Firearm,Juvenile
+703,2005-11-07,169240405,3209 North Shepherd,F,W,48,Killed,Firearm,40 - 49
+704,2005-11-07,169240405,3209 North Shepherd,F,W,48,Killed,Firearm,40 - 49
+705,2005-11-07,169240405,3209 North Shepherd,F,W,48,Killed,Firearm,40 - 49
+706,2005-10-26,163031105,6800 Petrie,M,H,UNK,None,Firearm,Unknown
+707,2005-09-09,138241605,5600 Sheraton Oaks,M,H,32,Killed,None,30 - 39
+708,2005-09-06,152782805,7400 South Hall St,M,B,23,None,Vehicle,20 - 29
+709,2005-08-16,125292305,3302 Creston Dr,M,B,19,None,None,Under 20
+710,2005-08-10,122380905,3700 Mainer,M,B,52,S,Firearm,50 - 59
+711,2005-08-06,120398305,2700 South Kirkwood,M,B,UNK,None,Vehicle,Unknown
+712,2005-07-25,113549405,644 Barringer Ln,F,W,19,Killed,Firearm,Under 20
+713,2005-07-22,112382105,12510 South Green,M,B,36,None,None,30 - 39
+714,2005-07-20,110924105,9421 Richmond,M,W,41,Killed,Firearm,40 - 49
+716,2005-07-19,110403105,Protected By Law,M,H,UNK,Wounded,Firearm,Unknown
+717,2005-07-17,109574205,Protected By Law,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+718,2005-07-13,107632105,11300 Sandhurst Dr,M,B,UNK,None,Firearm,Unknown
+719,2005-07-06,103365905,9305 Ronda Lane,M,B,32,Wounded,Firearm,30 - 39
+721,,103365905,,M,B,31,Wounded,Firearm,30 - 39
+722,2005-07-01,100573705,10200 Forum Park West Dr,M,W,29,Killed,Firearm,20 - 29
+724,2005-06-19,94050605,10830 Bellaire,M,A,31,Wounded,Firearm,30 - 39
+725,2005-06-09,88385705,11000 Westheimer,M,B,26,Wounded,None,20 - 29
+726,2005-06-03,85495805,4900 Saxon,Juvenile,Juvenile,Juvenile,None,Vehicle,Juvenile
+727,2005-05-26,80613005,10202 CLub Creek,M,B,22,Killed,Stick - Said Gun,20 - 29
+728,2005-05-02,66529405,588 Parkfront,M,H,25,None,Vehicle,20 - 29
+730,2005-04-25,63489305,4935 W. Orem,M,B,18,None,Vehicle,Under 20
+731,2005-04-08,53339905,8400 S. Gessner,M,H,UNK,None,Firearm,Unknown
+732,2005-04-05,52104805,3100 Rogerdale Rd,M,B,26,None,None,20 - 29
+733,2005-03-30,48422305,12500 Westheimer,M,B,31,None,None,30 - 39
+734,2005-03-16,40489405,4619 West 34th St,M,B,39,None,None,30 - 39
+735,2005-03-13,38929805,2100 Nina Lee,M,H,18,None,Vehicle,Under 20
+736,2005-03-07,35678805,9621 Radio St.,M,B,21,Killed,Firearm,20 - 29
+737,2005-03-01,32456405,7710 Claiborne,M,B,22,None,Firearm,20 - 29
+738,2005-02-26,30500705,1915 Mangum,M,W,29,None,Firearm,20 - 29
+740,2005-02-23,28841605,9700 Leawood Blvd,M,B,26,Killed,Firearm,20 - 29
+741,2005-02-14,24094505,10700 Fondren,M,B,18,None,Firearm,Under 20
+742,2005-02-10,21966005,7900 Garland Dr,M,A,26,None,Vehicle,20 - 29
+743,2005-01-03,1517405,3333 Telephone Road,M,H,26,Killed,Firearm,20 - 29
+745,2005-01-02,1027805,Hwy 6 / Brazoria County Rd 824,M,H,35,Wounded,Vehicle,30 - 39
