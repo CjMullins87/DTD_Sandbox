@@ -1,0 +1,583 @@
+,Incident_INC NO.,Suspect_SEX,Suspect_RACE,Suspect_AGE,Suspect_INJURY,Suspect_WEAPON,Suspect_DECILE
+1,71326920,M,H,26,Wounded,Other,20 - 29
+2,71270820,M,H,18,Wounded,Firearm,Under 20
+3,69259320,M,H,UNK,Killed,Firearm,Unknown
+6,64788020,M,B,38,Killed,Knife,30 - 39
+7,63946620,M,B,30,Killed,Other,30 - 39
+9,60491720,M,B,48,Killed,Other,40 - 49
+10,54949120,M,H,28,Killed,Firearm,20 - 29
+12,52537920,M,B,36,Killed,Other,30 - 39
+17,47826020,M,B,34,None,Firearm,30 - 39
+18,44206820,M,B,27,Wounded,None,20 - 29
+19,23726420,M,B,26,Wounded,Knife,20 - 29
+20,10380820,M,B,37,None,Firearm,30 - 39
+21,2508920,M,B,30,Wounded,None,30 - 39
+22,4005720,M,B,45,Wounded,None,40 - 49
+23,2446820,M,B,34,Wounded,Firearm,30 - 39
+27,171736319,M,B,18,Killed,Firearm,Under 20
+29,4055820,M,B,43,Wounded,Firearm,40 - 49
+31,115732919,M,H,28,Wounded,None,20 - 29
+33,119361419,M,B,17,Unknown,None,Under 20
+34,120935219,M,B,27,Killed,Firearm,20 - 29
+36,143778519,M,A,32,Wounded,Firearm,30 - 39
+38,108199719,M,H,41,Killed,Firearm,40 - 49
+39,102521519,M,B,60,Wounded,Firearm,60 - 69
+41,93118919,M,B,25,None,Firearm,20 - 29
+42,82488019,M,W,24,Killed,Firearm,20 - 29
+45,77867119,M,B,23,Wounded,Firearm,20 - 29
+47,65776819,M,B,35,Killed,Firearm,30 - 39
+48,46151719,M,B,17,Wounded,Firearm,Under 20
+49,25266619,M,H,19,Wounded,Firearm,Under 20
+51,22869919,M,H,17,Wounded,Firearm,Under 20
+52,13527619,M,B,26,None,None,20 - 29
+53,13527619,M,B,24,None,None,20 - 29
+54,12191319,M,H,30,Wounded,None,30 - 39
+55,12133719,M,W,59,Killed,Firearm,50 - 59
+57,12133719,F,W,58,Killed,None,50 - 59
+59,12191319,M,H,30,Wounded,None,30 - 39
+60,3169319,M,B,26,Wounded,Firearm,20 - 29
+62,1599519,M,B,32,Killed,Firearm,30 - 39
+63,162241918,M,W,39,None,None,30 - 39
+64,150372018,M,B,28,Killed,None,20 - 29
+65,150372018,M,B,30,Killed,Firearm,30 - 39
+66,149476218,M,A,41,Killed,Firearm,40 - 49
+67,144320018,M,H,61,Killed,None,60 - 69
+68,135922718,M,W,30,Killed,Firearm,30 - 39
+69,122990318,M,B,23,Killed,Firearm,20 - 29
+72,123798518,M,B,26,None,Other,20 - 29
+73,114287818,M,B,43,Killed,Firearm,40 - 49
+74,95218318,M,B,17,None,Firearm,Under 20
+75,95218318,M,B,19,Wounded,Firearm,Under 20
+76,93701118,M,H,16,None,Other,Under 20
+77,90024918,M,H,18,Wounded,Firearm,Under 20
+78,79427318,M,H,33,None,Firearm,30 - 39
+79,77476418,M,H,37,None,Other,30 - 39
+80,71389218,M,U,UNK,None,Firearm,Unknown
+81,66457618,M,B,6,Wounded,Other,Under 20
+82,20235418,M,B,56,Wounded,Firearm,50 - 59
+87,13903618,M,H,32,None,Unknown,30 - 39
+88,13572118,M,B,37,Killed,Firearm,30 - 39
+89,136191017,M,H,24,Wounded,Firearm,20 - 29
+90,134253217,M,H,33,Killed,Scissors and screwdriver,30 - 39
+91,132830217,M,H,54,Killed,Knife,50 - 59
+95,112738517,F,W,28,Wounded,None,20 - 29
+96,112738517,F,W,32,Wounded,Vehicle,30 - 39
+102,61603917,M,B,30,Wounded,Firearm,30 - 39
+104,56940317,M,B,UNK,None,Firearm,Unknown
+105,52500217,M,B,36,Wounded,Machete,30 - 39
+107,52538517,M,B,21,None,None,20 - 29
+108,52538517,M,B,22,None,Firearm,20 - 29
+109,51362817,M,B,18,None,None,Under 20
+110,51362817,Juvenile,Juvenile,Juvenile,Wounded,Unknown,Juvenile
+111,51362817,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+112,51362817,Juvenile,Juvenile,Juvenile,Killed,Pellet Gun,Juvenile
+113,44960417,M,B,39,Killed,Firearm,30 - 39
+114,36699917,M,B,36,Wounded,Firearm,30 - 39
+116,30911117,M,B,26,Wounded,Unknown,20 - 29
+117,30911117,M,B,27,Wounded,Unknown,20 - 29
+118,26218717,M,B,25,Killed,Firearm,20 - 29
+120,20859317,M,B,42,Wounded,Tuning fork,40 - 49
+121,9641917,M,H,UNK,Unknown,Firearm,Unknown
+122,155214316,M,B,37,Killed,Firearm,30 - 39
+124,155214316,M,B,29,None,Firearm,20 - 29
+126,154131216,M,H,26,Wounded,Firearm,20 - 29
+128,151462916,M,H,22,Wounded,Firearm,20 - 29
+129,131104116,M,B,21,Wounded,None,20 - 29
+130,123203516,M,W,46,Killed,Firearm,40 - 49
+135,109985316,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+136,109985316,M,B,20,None,Hammer,20 - 29
+137,109985316,M,B,UNK,None,Firearm,Unknown
+138,99760816,M,H,34,Wounded,Firearm,30 - 39
+139,94862816,M,W,27,Wounded,Realistic BB gun,20 - 29
+141,88163616,M,B,38,Killed,Firearm,30 - 39
+143,88431916,M,W,49,None,Firearm,40 - 49
+144,72782816,M,B,47,Wounded,None,40 - 49
+145,72408916,M,H,25,Killed,Firearm,20 - 29
+146,67632516,M,U,UNK,None,Vehicle,Unknown
+148,66462816,M,W,30,Wounded,Vehicle,30 - 39
+149,54184916,M,B,42,Wounded,Unknown,40 - 49
+150,64416616,M,H,22,Wounded,Firearm,20 - 29
+151,48805716,M,B,29,Wounded,Firearm,20 - 29
+152,47566916,M,B,UNK,Unknown,Firearm,Unknown
+153,47566916,M,B,37,Unknown,Firearm,30 - 39
+154,35690916,M,H,28,Wounded,Firearm,20 - 29
+156,34516216,M,B,32,None,Firearm,30 - 39
+157,34516216,M,B,25,Wounded,None,20 - 29
+158,34516216,M,B,23,Wounded,Firearm,20 - 29
+159,34516216,M,B,29,Killed,None,20 - 29
+160,34516216,M,B,30,Killed,Firearm,30 - 39
+161,34516216,M,B,32,None,Firearm,30 - 39
+162,32189216,M,B,37,Killed,None,30 - 39
+163,30130016,M,B,20,None,Firearm,20 - 29
+165,19345016,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+166,19345016,M,B,20,None,Firearm,20 - 29
+167,15817516,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+168,15817516,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+169,11017416,F,W,40,None,Firearm,40 - 49
+171,7896816,M,B,27,None,Firearm,20 - 29
+172,7896816,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+173,166610115,M,B,22,None,None,20 - 29
+174,166610115,M,B,23,Wounded,Firearm,20 - 29
+175,165095615,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+176,158966515,M,H,35,Wounded,None,30 - 39
+177,141999815,M,B,56,Killed,Firearm,50 - 59
+178,139741915,M,B,24,Killed,Firearm,20 - 29
+179,139741915,M,B,25,Killed,Firearm,20 - 29
+180,139741915,M,B,24,Wounded,Firearm,20 - 29
+181,133534615,M,W,27,Killed,Firearm,20 - 29
+182,133195715,M,B,22,Wounded,Firearm,20 - 29
+183,133195715,M,B,20,None,None,20 - 29
+184,133195715,M,B,20,Killed,Firearm,20 - 29
+185,130647615,M,H,22,Wounded,Knife,20 - 29
+186,130282515,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+187,127727615,M,H,22,None,Firearm,20 - 29
+188,123663615,M,W,37,None,Vehicle,30 - 39
+189,116471815,M,H,29,None,Firearm,20 - 29
+191,116471815,M,H,23,None,None,20 - 29
+192,115223915,M,U,UNK,Wounded,Firearm,Unknown
+193,111183815,M,B,26,Wounded,None,20 - 29
+194,108702415,F,B,UNK,None,Firearm,Unknown
+195,108702415,M,B,UNK,None,None,Unknown
+196,106630315,M,B,35,Killed,Firearm,30 - 39
+197,99571615,M,W,63,Killed,Vehicle,60 - 69
+199,97568715,M,B,24,None,Firearm,20 - 29
+201,94851715,M,H,23,Wounded,Firearm,20 - 29
+202,87555915,Juvenile,Juvenile,Juvenile,Killed,Firearm,Juvenile
+203,87555915,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+204,87555915,F,B,24,Wounded,None,20 - 29
+205,87658515,M,A,21,None,Firearm,20 - 29
+206,87658515,M,B,21,None,Firearm,20 - 29
+207,87658515,M,B,24,Wounded,Firearm,20 - 29
+208,71376915,M,H,33,Killed,Knife,30 - 39
+210,53879915,M,B,UNK,None,Firearm,Unknown
+211,47973815,F,H,29,Wounded,None,20 - 29
+212,47127315,M,B,42,Killed,None,40 - 49
+214,46362715,M,H,24,Killed,Firearm,20 - 29
+215,41129615,M,B,26,Wounded,None,20 - 29
+216,17884215,M,H,28,None,Firearm,20 - 29
+217,17884215,M,H,25,None,None,20 - 29
+218,17884215,F,H,22,None,None,20 - 29
+219,7847415,M,B,UNK,None,None,Unknown
+220,6314215,M,H,26,Killed,Firearm,20 - 29
+221,6695315,M,B,18,Wounded,Firearm,Under 20
+222,6695315,M,B,19,None,None,Under 20
+223,6695315,M,B,19,None,None,Under 20
+224,3483515,M,H,19,Wounded,None,Under 20
+225,3652815,M,H,20,Wounded,Firearm,20 - 29
+226,160528814,M,B,32,Wounded,Firearm,30 - 39
+227,159236414,M,B,20,Wounded,Firearm,20 - 29
+228,158181414,M,B,38,Wounded,None,30 - 39
+230,155866314,M,B,33,None,Firearm,30 - 39
+231,144326514,M,H,26,None,Firearm,20 - 29
+232,134580514,M,B,34,Wounded,Firearm,30 - 39
+233,132565014,M,W,55,None,Vehicle,50 - 59
+234,130116114,M,H,31,Wounded,Vehicle,30 - 39
+235,130116114,M,W,36,Wounded,Vehicle,30 - 39
+236,127340314,M,H,36,Killed,Firearm,30 - 39
+238,124567814,M,W,34,Killed,Firearm,30 - 39
+239,124142914,M,W,32,Killed,Firearm,30 - 39
+241,120847114,M,B,25,Wounded,Vehicle,20 - 29
+243,118130414,M,W,44,Wounded,Firearm,40 - 49
+244,118130414,F,W,38,None,None,30 - 39
+245,118130414,M,W,20,None,None,20 - 29
+246,102070914,M,H,28,Killed,Firearm,20 - 29
+247,102260814,M,H,40,Killed,Firearm,40 - 49
+248,97245814,M,B,UNK,None,None,Unknown
+249,97245814,M,B,UNK,None,None,Unknown
+250,95144314,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+251,94268814,M,B,22,None,None,20 - 29
+252,94268814,M,B,27,None,Firearm,20 - 29
+253,55474514,M,B,34,Killed,Firearm,30 - 39
+254,55474514,M,B,32,None,None,30 - 39
+255,53375914,M,B,27,Wounded,Metal Pole,20 - 29
+256,34188114,M,B,UNK,Unknown,Firearm,Unknown
+257,33110514,M,B,34,Wounded,None,30 - 39
+258,32413614,M,B,26,Killed,None,20 - 29
+259,30609914,M,B,47,Unknown,Vehicle,40 - 49
+260,30609914,M,B,49,Wounded,Vehicle,40 - 49
+261,27504414,U,U,UNK,Unknown,None,Unknown
+262,27504414,Juvenile,Juvenile,Juvenile,Killed,BB Gun,Juvenile
+263,24475814,M,B,54,Wounded,Lumber,50 - 59
+264,19897714,Juvenile,Juvenile,Juvenile,Killed,BB Gun,Juvenile
+265,19897714,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+266,19009014,M,B,19,None,None,Under 20
+267,19009014,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+268,19009014,M,B,19,Wounded,Firearm,Under 20
+269,16581114,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+270,16581114,Juvenile,Juvenile,Juvenile,Wounded,BB Gun,Juvenile
+271,16581114,M,W,18,Wounded,None,Under 20
+272,9805514,M,B,24,Killed,Firearm,20 - 29
+274,7934614,M,B,23,Wounded,Firearm,20 - 29
+275,6830214,M,B,26,Killed,None,20 - 29
+276,5578914,M,W,36,Wounded,Knife,30 - 39
+277,4732914,M,W,22,None,Firearm,20 - 29
+278,160489413,M,B,UNK,Unknown,Vehicle,Unknown
+279,153332913,M,W,30,None,None,30 - 39
+280,149898913,M,H,24,None,None,20 - 29
+281,150207613,M,B,18,None,None,Under 20
+282,150207613,M,H,16,None,None,Under 20
+283,150207613,M,H,18,None,None,Under 20
+284,150207613,M,H,18,None,None,Under 20
+285,150207613,M,H,16,None,None,Under 20
+286,150207613,M,B,17,None,None,Under 20
+287,137943813,M,B,17,Wounded,Firearm,Under 20
+288,133633813,M,B,22,Killed,Knife,20 - 29
+289,122668913,M,W,25,Wounded,Glass Shard,20 - 29
+290,120839113,M,B,24,Wounded,Firearm,20 - 29
+291,120839113,M,B,20,None,Firearm,20 - 29
+292,120421213,M,H,55,Killed,Firearm,50 - 59
+293,115266113,M,H,23,Wounded,Firearm,20 - 29
+294,115266113,M,H,17,None,None,Under 20
+295,115266113,M,H,17,None,None,Under 20
+296,115266113,M,H,23,None,None,20 - 29
+297,113255013,M,W,27,Killed,Firearm,20 - 29
+299,113255013,F,W,39,None,None,30 - 39
+301,110045013,M,H,28,Killed,Firearm,20 - 29
+302,105776713,M,B,32,Wounded,Firearm,30 - 39
+304,98692013,M,H,52,None,Firearm,50 - 59
+305,97994313,M,H,28,Killed,Firearm,20 - 29
+307,74452613,M,B,34,Wounded,Vehicle,30 - 39
+308,68384613,M,B,14,None,None,Under 20
+309,68384613,M,B,15,None,None,Under 20
+310,68384613,M,B,16,None,None,Under 20
+311,68384613,M,B,UNK,None,Firearm,Unknown
+312,67283213,M,B,21,Wounded,Firearm,20 - 29
+313,1355467,M,U,23,None,Firearm,20 - 29
+314,1355467,M,B,21,None,Firearm,20 - 29
+315,1355467,M,B,18,Killed,Firearm,Under 20
+316,44046113,M,B,30,Wounded,Firearm,30 - 39
+317,44046113,M,B,UNK,None,Firearm,Unknown
+318,43485213,M,B,24,None,Firearm,20 - 29
+319,43485213,U,U,UNK,None,None,Unknown
+320,43485213,U,U,UNK,None,None,Unknown
+321,43485213,U,U,UNK,None,None,Unknown
+322,41917613,M,B,21,None,Firearm,20 - 29
+323,41917613,M,B,18,None,None,Under 20
+324,35614113,M,B,44,Wounded,Firearm,40 - 49
+326,34501713,M,H,17,Wounded,Firearm,Under 20
+329,33958813,M,B,38,Wounded,None,30 - 39
+330,33144013,M,H,33,Killed,Firearm,30 - 39
+331,26584013,M,B,45,Wounded,Firearm,40 - 49
+333,25253413,M,B,46,Killed,Scissors,40 - 49
+334,19558313,M,H,51,None,Vehicle,50 - 59
+336,18168313,M,B,32,Wounded,Firearm,30 - 39
+337,18448313,M,B,34,Killed,Knife,30 - 39
+338,16110813,M,W,44,None,Vehicle,40 - 49
+339,16110813,F,W,38,None,None,30 - 39
+340,13852913,M,B,33,Wounded,Vehicle,30 - 39
+343,6043313,M,W,UNK,None,Unknown,Unknown
+344,4468713,M,B,23,Wounded,Firearm,20 - 29
+345,4789613,M,B,19,Wounded,Firearm,Under 20
+346,4789613,M,B,18,None,None,Under 20
+347,4789613,M,B,22,None,None,20 - 29
+348,4789613,M,B,17,None,None,Under 20
+349,4789613,M,B,20,None,Firearm,20 - 29
+350,4789613,M,B,19,None,Firearm,Under 20
+351,1469213,M,B,UNK,None,Unknown,Unknown
+352,1469213,M,B,UNK,None,Unknown,Unknown
+353,162463012,M,B,41,Wounded,Vehicle,40 - 49
+354,161401412,M,B,42,None,Firearm,40 - 49
+355,161401412,M,B,32,None,Firearm,30 - 39
+356,160908412,M,B,43,Wounded,Firearm,40 - 49
+357,146038912,M,B,37,None,Firearm,30 - 39
+358,145242812,M,B,21,None,None,20 - 29
+359,139910512,M,W,46,Killed,Firearm,40 - 49
+361,128938512,M,B,38,Killed,None,30 - 39
+362,121514812,M,H,25,None,None,20 - 29
+363,120646512,M,W,45,Killed,Pen,40 - 49
+364,121020212,M,B,UNK,None,None,Unknown
+365,120020212,M,B,31,Wounded,Firearm,30 - 39
+366,118301912,M,H,26,Wounded,None,20 - 29
+369,117468112,M,H,21,Wounded,None,20 - 29
+370,117468112,M,W,21,Wounded,Vehicle,20 - 29
+371,116946712,M,B,26,Killed,Knife,20 - 29
+373,106545312,M,B,23,Wounded,Firearm,20 - 29
+374,105011912,U,U,UNK,Unknown,Firearm,Unknown
+375,99971512,M,B,33,Killed,Firearm,30 - 39
+376,98051312,M,B,17,None,Vehicle,Under 20
+377,98051312,M,B,17,None,None,Under 20
+378,92642112,M,H,UNK,None,Firearm,Unknown
+379,92642112,M,H,UNK,None,Firearm,Unknown
+380,92756412,M,H,37,None,None,30 - 39
+381,86965012,M,H,54,Killed,None,50 - 59
+382,81382112,M,B,39,Killed,Firearm,30 - 39
+386,78840412,M,B,26,None,Firearm,20 - 29
+387,77976812,M,B,32,Wounded,Firearm,30 - 39
+388,74484712,M,H,44,None,Firearm,40 - 49
+389,66165412,M,B,51,Killed,Knife,50 - 59
+391,63111212,M,B,24,Killed,Knife,20 - 29
+392,62768512,M,B,36,None,None,30 - 39
+393,62466412,M,B,49,Wounded,Firearm,40 - 49
+394,57985912,M,B,26,Killed,Firearm,20 - 29
+396,55358512,M,B,17,Wounded,Firearm,Under 20
+398,49104412,M,B,28,Killed,Firearm,20 - 29
+400,42291412,M,B,23,Wounded,None,20 - 29
+401,41005512,M,B,28,None,None,20 - 29
+402,40154412,M,B,UNK,None,None,Unknown
+403,24401812,M,H,19,Wounded,Vehicle,Under 20
+404,24401812,M,H,32,None,None,30 - 39
+405,24405412,M,H,UNK,None,Unknown,Unknown
+406,20191212,M,B,69,Wounded,Firearm,60 - 69
+407,5577512,M,H,21,Wounded,None,20 - 29
+408,3088712,M,B,29,Wounded,None,20 - 29
+409,1338712,M,H,23,None,Firearm,20 - 29
+410,166958111,M,H,32,Wounded,Knife,30 - 39
+411,167166111,M,B,23,Wounded,Vehicle,20 - 29
+412,165748011,M,W,24,Killed,None,20 - 29
+413,154742111,M,H,19,Killed,Firearm,Under 20
+414,152066411,M,B,UNK,Unknown,Firearm,Unknown
+415,151095111,M,W,21,Wounded,Firearm,20 - 29
+417,115579311,M,B,23,Wounded,Firearm,20 - 29
+418,114240711,M,H,54,Wounded,None,50 - 59
+419,114240711,M,H,24,None,Firearm,20 - 29
+420,103663811,M,B,47,None,Knife,40 - 49
+421,102768011,M,W,47,Killed,None,40 - 49
+422,97780511,M,B,57,Wounded,None,50 - 59
+423,95913311,M,H,36,Unknown,Firearm,30 - 39
+424,95583811,M,H,23,None,Firearm,20 - 29
+425,94364111,M,B,29,None,Firearm,20 - 29
+426,90010111,M,H,21,Killed,Knife,20 - 29
+427,80221311,M,B,30,None,Firearm,30 - 39
+428,79326211,M,H,60,Wounded,Firearm,60 - 69
+430,77472411,Juvenile,Juvenile,Juvenile,Wounded,Vehicle,Juvenile
+431,74850211,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+432,74850211,Juvenile,Juvenile,Juvenile,Killed,None,Juvenile
+433,73973611,M,B,UNK,Unknown,Firearm,Unknown
+434,71917211,M,W,29,None,None,20 - 29
+435,63475811,M,A,30,None,Firearm,30 - 39
+436,62419311,M,H,22,Wounded,Firearm,20 - 29
+437,58242911,M,B,20,S,Firearm,20 - 29
+441,113007011,U,U,UNK,Unknown,Unknown,Unknown
+442,38048911,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+443,33289911,M,B,31,Wounded,Firearm,30 - 39
+444,23788311,M,H,30,None,None,30 - 39
+446,23788311,M,H,33,None,Firearm,30 - 39
+447,21505611,M,H,29,Killed,None,20 - 29
+448,21505611,M,H,27,Wounded,None,20 - 29
+449,19185611,M,W,32,Killed,Knife,30 - 39
+450,181709210,M,H,UNK,None,Firearm,Unknown
+451,180917410,M,B,26,Killed,Firearm,20 - 29
+452,174964510,F,B,20,Killed,Firearm,20 - 29
+453,173208310,M,A,28,Wounded,Firearm,20 - 29
+454,173208310,M,A,28,Wounded,Firearm,20 - 29
+455,167697610,M,H,29,Wounded,None,20 - 29
+457,164216010,M,B,18,Wounded,None,Under 20
+458,161868210,M,B,29,Wounded,Firearm,20 - 29
+459,157802610,M,B,26,Killed,Firearm,20 - 29
+460,156385710,M,H,20,None,Vehicle,20 - 29
+461,156385710,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+462,155863110,M,B,21,Wounded,None,20 - 29
+463,153546010,M,H,25,Wounded,None,20 - 29
+464,151609310,M,H,20,Wounded,None,20 - 29
+465,143935310,M,H,21,Wounded,Firearm,20 - 29
+466,134992910,M,B,35,None,Firearm,30 - 39
+467,134594010,M,B,34,Wounded,Vehicle,30 - 39
+468,125703510,M,H,32,Killed,Firearm,30 - 39
+469,125703510,M,B,29,Wounded,Vehicle,20 - 29
+470,115612110,M,W,44,None,Firearm,40 - 49
+472,113815510,M,H,40,None,Toy Gun,40 - 49
+473,105214310,M,H,UNK,None,Unknown,Unknown
+474,75570210,M,B,21,Wounded,None,20 - 29
+475,72742910,M,B,37,Wounded,Firearm,30 - 39
+477,70469710,M,B,37,Wounded,Firearm,30 - 39
+478,56050910,M,B,18,Killed,Firearm,Under 20
+479,53464310,M,B,30,Wounded,Knife,30 - 39
+480,46985010,M,H,35,Wounded,None,30 - 39
+481,43287110,M,H,28,Killed,Firearm,20 - 29
+483,39536710,M,B,21,Killed,Firearm,20 - 29
+484,33137410,M,H,28,Wounded,Firearm,20 - 29
+487,27481110,M,B,41,Wounded,None,40 - 49
+488,19186510,M,B,19,None,Firearm,Under 20
+489,19186510,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+490,17333510,M,B,29,None,Firearm,20 - 29
+491,8120910,M,H,23,Wounded,Firearm,20 - 29
+493,7098810,M,B,69,Killed,Firearm,60 - 69
+494,186288209,Juvenile,Juvenile,Juvenile,Killed,Firearm,Juvenile
+496,184046609,M,H,35,None,Firearm,30 - 39
+497,179512609,M,H,21,None,Firearm,20 - 29
+498,178533309,M,W,44,Wounded,Hairbrush,40 - 49
+499,177728609,M,W,49,S,Firearm,40 - 49
+500,169729509,M,B,67,None,Vehicle,60 - 69
+501,166601609,M,H,28,Killed,Firearm,20 - 29
+502,163196609,M,B,UNK,None,Firearm,Unknown
+503,162468609,M,H,26,Killed,Firearm,20 - 29
+504,147715209,M,H,35,Killed,Knife,30 - 39
+505,146846409,M,B,18,None,Firearm,Under 20
+506,142027109,M,H,21,Wounded,Firearm,20 - 29
+507,138406209,M,H,38,None,Toy Gun,30 - 39
+508,137565509,M,W,49,Killed,Firearm,40 - 49
+509,136512809,M,H,31,Wounded,None,30 - 39
+510,133143109,M,B,25,Wounded,None,20 - 29
+511,131629809,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+512,131629809,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+513,129983309,M,H,27,None,Firearm,20 - 29
+514,125342709,M,B,UNK,None,Firearm,Unknown
+515,125342709,M,B,UNK,None,Firearm,Unknown
+516,122735709,M,W,UNK,None,Vehicle,Unknown
+517,115531209,M,B,21,Wounded,None,20 - 29
+518,115591909,M,B,26,None,None,20 - 29
+519,112714009,M,B,25,None,Vehicle,20 - 29
+520,111697509,M,W,39,Killed,CED Device,30 - 39
+521,108043709,M,H,UNK,None,Firearm,Unknown
+522,107327809,M,U,UNK,None,Unknown,Unknown
+523,107581809,M,H,54,Killed,Srewdriver,50 - 59
+524,102282609,M,B,29,Killed,Firearm,20 - 29
+530,95423209,M,H,26,None,Firearm,20 - 29
+531,91819709,M,H,27,Killed,Firearm,20 - 29
+533,82236309,M,B,22,None,Firearm,20 - 29
+534,80998609,Juvenile,Juvenile,Juvenile,None,Firearm,Juvenile
+535,70423809,M,B,29,Wounded,Firearm,20 - 29
+536,58570609,M,H,25,Killed,Firearm,20 - 29
+539,56603609,M,H,29,Killed,Knife,20 - 29
+540,54787109,M,B,28,Wounded,Firearm,20 - 29
+541,48859509,M,B,19,Wounded,Firearm,Under 20
+542,40670409,M,B,23,None,Knife,20 - 29
+543,39879809,M,W,37,None,Vehicle,30 - 39
+544,39879809,F,W,36,Wounded,None,30 - 39
+545,33424709,M,B,47,Killed,Firearm,40 - 49
+549,32644409,M,H,28,Killed,Firearm,20 - 29
+552,28090909,F,B,UNK,None,Firearm,Unknown
+553,20116209,M,B,28,Wounded,Firearm,20 - 29
+555,20348309,M,W,28,Killed,Firearm,20 - 29
+559,16502609,M,B,18,Wounded,Firearm,Under 20
+560,11777609,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+561,9269409,M,H,UNK,None,Firearm,Unknown
+562,9269409,M,H,UNK,None,Firearm,Unknown
+563,9518409,F,W,33,Wounded,Bow and Arrow,30 - 39
+564,5625709,M,W,54,Killed,Firearm,50 - 59
+567,186639008,M,B,24,Wounded,None,20 - 29
+568,182749508,M,B,18,Wounded,Firearm,Under 20
+569,162114608,M,H,24,Killed,Firearm,20 - 29
+570,160051508,M,B,29,None,Vehicle,20 - 29
+571,159479208,M,B,45,Killed,Firearm,40 - 49
+572,152494608,M,B,UNK,None,Firearm,Unknown
+573,152368308,M,H,21,None,Firearm,20 - 29
+574,152464708,M,B,UNK,None,Firearm,Unknown
+575,137113208,M,B,UNK,None,Firearm,Unknown
+576,136611408,M,B,29,Killed,Firearm,20 - 29
+577,128334208,M,B,25,Killed,None,20 - 29
+578,122355008,M,H,20,Wounded,None,20 - 29
+579,119425508,M,H,28,Wounded,Sword,20 - 29
+580,116404708,M,B,19,None,Firearm,Under 20
+581,94306208,M,B,33,Killed,Firearm,30 - 39
+582,881874308,M,H,28,Wounded,None,20 - 29
+583,81947208,M,B,30,Killed,None,30 - 39
+584,76302208,F,B,30,Wounded,Firearm,30 - 39
+585,62576608,M,W,53,Killed,None,50 - 59
+587,52498908,M,B,28,Killed,Screwdriver,20 - 29
+588,51417008,M,H,33,Wounded,None,30 - 39
+589,32223108,M,W,42,Killed,Vehicle,40 - 49
+593,26740208,M,H,21,Killed,Firearm,20 - 29
+596,25524808,M,B,31,Wounded,None,30 - 39
+597,219790008,F,H,29,Wounded,Vehicle,20 - 29
+600,839028,M,B,51,None,None,50 - 59
+601,839028,M,B,48,None,None,40 - 49
+602,7143608,M,H,21,Wounded,BB Gun,20 - 29
+610,190773207,M,H,23,Wounded,Flashlight,20 - 29
+611,153198907,M,B,30,Killed,None,30 - 39
+612,138627007,M,B,26,None,Vehicle,20 - 29
+613,136079707,F,W,23,None,Vehicle,20 - 29
+614,119818907,F,B,18,Wounded,None,Under 20
+615,118920907,M,W,24,None,Firearm,20 - 29
+616,112773907,M,B,21,Killed,Firearm,20 - 29
+622,107981607,M,B,39,Killed,Club,30 - 39
+624,107479507,M,B,43,Wounded,None,40 - 49
+625,98260207,Juvenile,Juvenile,Juvenile,Wounded,Vehicle,Juvenile
+626,96935007,M,H,26,None,None,20 - 29
+627,84230307,M,B,23,Wounded,Firearm,20 - 29
+628,81607707,M,B,42,Wounded,None,40 - 49
+629,79542707,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+630,74313707,M,H,UNK,Unknown,Toy Gun,Unknown
+631,69483207,M,H,21,Killed,Firearm,20 - 29
+632,68594007,M,H,77,Killed,Firearm,70 - 79
+633,65913307,M,B,42,Killed,Knife,40 - 49
+634,64609707,M,B,18,Wounded,Toy Gun,Under 20
+635,59821907,M,H,26,Wounded,Firearm,20 - 29
+637,55773407,M,H,28,None,Vehicle,20 - 29
+639,53207807,M,B,24,S,Firearm,20 - 29
+640,41346907,F,B,20,None,Vehicle,20 - 29
+641,20557707,M,W,37,Killed,Knife,30 - 39
+642,12751707,M,B,19,Wounded,Vehicle,Under 20
+644,3998207,M,B,23,Killed,Taser,20 - 29
+645,3392207,M,H,21,Killed,Hammer,20 - 29
+646,197202506,M,B,42,None,Vehicle,40 - 49
+647,92666106,M,B,51,Killed,Knife,50 - 59
+649,164481806,Juvenile,Juvenile,Juvenile,Wounded,None,Juvenile
+650,163662206,M,B,46,Killed,Knife,40 - 49
+651,164009106,M,A,27,Killed,Pellet Gun,20 - 29
+653,160660406,M,B,UNK,None,Firearm,Unknown
+655,148156706,M,B,28,None,Vehicle,20 - 29
+656,143962206,M,B,28,None,Firearm,20 - 29
+658,137251106,M,B,27,Unknown,Firearm,20 - 29
+659,130868306,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+660,122777506,Juvenile,Juvenile,Juvenile,Wounded,Firearm,Juvenile
+661,120294106,M,H,24,Wounded,None,20 - 29
+662,119329906,M,B,52,None,Firearm,50 - 59
+663,118005606,M,B,49,None,Firearm,40 - 49
+664,118327206,M,W,37,Wounded,Firearm,30 - 39
+667,115755806,M,B,26,None,Firearm,20 - 29
+668,107824206,M,H,35,Killed,Firearm,30 - 39
+669,103944906,M,W,29,Wounded,Tool,20 - 29
+670,95120206,F,B,28,Killed,Toy Gun,20 - 29
+672,93829706,M,H,23,Wounded,Firearm,20 - 29
+673,88933206,M,B,28,None,Firearm,20 - 29
+674,85131306,M,W,46,Wounded,Firearm,40 - 49
+675,84848906,M,B,21,None,Firearm,20 - 29
+676,84848906,M,B,20,None,Firearm,20 - 29
+677,78020306,M,B,20,Killed,Firearm,20 - 29
+678,69428906,M,B,54,Wounded,Pipe,50 - 59
+679,62840506,M,H,39,Wounded,Firearm,30 - 39
+682,53261906,M,B,18,Wounded,Toy Gun,Under 20
+683,51744806,M,B,26,None,None,20 - 29
+684,42016506,M,W,36,Wounded,None,30 - 39
+685,39877906,M,W,28,Wounded,Toy Pistol,20 - 29
+686,30371506,M,H,27,Wounded,Vehicle,20 - 29
+688,21933806,Juvenile,Juvenile,Juvenile,Wounded,Knife,Juvenile
+689,18268706,M,B,28,Killed,Firearm,20 - 29
+690,13033806,M,H,36,Killed,Firearm,30 - 39
+692,2004806,M,H,UNK,Unknown,Firearm,Unknown
+693,193131105,M,B,22,Killed,Firearm,20 - 29
+695,193231905,M,B,40,Wounded,Firearm,40 - 49
+697,188502605,M,H,19,Wounded,Firearm,Under 20
+698,188502605,M,H,22,Wounded,Firearm,20 - 29
+699,188502605,Juvenile,Juvenile,Juvenile,None,Firearm,Juvenile
+700,188502605,M,H,24,Killed,Firearm,20 - 29
+701,183852305,M,B,22,Wounded,Firearm,20 - 29
+702,179844005,Juvenile,Juvenile,Juvenile,None,Firearm,Juvenile
+703,169240405,F,W,48,Killed,Firearm,40 - 49
+704,169240405,F,W,48,Killed,Firearm,40 - 49
+705,169240405,F,W,48,Killed,Firearm,40 - 49
+706,163031105,M,H,UNK,None,Firearm,Unknown
+707,138241605,M,H,32,Killed,None,30 - 39
+708,152782805,M,B,23,None,Vehicle,20 - 29
+709,125292305,M,B,19,None,None,Under 20
+710,122380905,M,B,52,S,Firearm,50 - 59
+711,120398305,M,B,UNK,None,Vehicle,Unknown
+712,113549405,F,W,19,Killed,Firearm,Under 20
+713,112382105,M,B,36,None,None,30 - 39
+714,110924105,M,W,41,Killed,Firearm,40 - 49
+716,110403105,M,H,UNK,Wounded,Firearm,Unknown
+717,109574205,Juvenile,Juvenile,Juvenile,None,None,Juvenile
+718,107632105,M,B,UNK,None,Firearm,Unknown
+719,103365905,M,B,32,Wounded,Firearm,30 - 39
+721,103365905,M,B,31,Wounded,Firearm,30 - 39
+722,100573705,M,W,29,Killed,Firearm,20 - 29
+724,94050605,M,A,31,Wounded,Firearm,30 - 39
+725,88385705,M,B,26,Wounded,None,20 - 29
+726,85495805,Juvenile,Juvenile,Juvenile,None,Vehicle,Juvenile
+727,80613005,M,B,22,Killed,Stick - Said Gun,20 - 29
+728,66529405,M,H,25,None,Vehicle,20 - 29
+730,63489305,M,B,18,None,Vehicle,Under 20
+731,53339905,M,H,UNK,None,Firearm,Unknown
+732,52104805,M,B,26,None,None,20 - 29
+733,48422305,M,B,31,None,None,30 - 39
+734,40489405,M,B,39,None,None,30 - 39
+735,38929805,M,H,18,None,Vehicle,Under 20
+736,35678805,M,B,21,Killed,Firearm,20 - 29
+737,32456405,M,B,22,None,Firearm,20 - 29
+738,30500705,M,W,29,None,Firearm,20 - 29
+740,28841605,M,B,26,Killed,Firearm,20 - 29
+741,24094505,M,B,18,None,Firearm,Under 20
+742,21966005,M,A,26,None,Vehicle,20 - 29
+743,1517405,M,H,26,Killed,Firearm,20 - 29
+745,1027805,M,H,35,Wounded,Vehicle,30 - 39
